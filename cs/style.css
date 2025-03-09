@@ -3,7 +3,7 @@
 }
 
 .hero {
-  background: url("/images/3pirime.jpg") no-repeat center center/cover;
+  background: url("/images/3pirime.jpg")
   color: white;
   text-align: center;
   padding: 100px 20px;
